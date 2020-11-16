@@ -65,7 +65,9 @@ button{
 } */
 
 
-
+h1{
+  font-size: 60px;
+}
 
 
 
@@ -162,8 +164,10 @@ h1{
 
   @media (max-width: 575px) {
     h1{
+        font-size: 30px;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: xx-large;
+        
+
     }
     article{
         background-color: #fff;
